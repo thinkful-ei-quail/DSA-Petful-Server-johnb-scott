@@ -13,6 +13,6 @@ There is also a list of people who would like to adopt also stored as a queue.
 
 There are 2 endpoints. /pets and /people. both endpoints have get and delete methods. the /people endpoint also has a post method to allow more people to queue up to adopt pets<br>
 
-Live app: [Vercel](https://petful-client-mvui5rt5n.vercel.app/)
-[Server Repo](https://github.com/thinkful-ei-quail/DSA-Petful-Server-johnb-scott)
+Live app: [Vercel](https://petful-client-mvui5rt5n.vercel.app/)<br>
+[Server Repo](https://github.com/thinkful-ei-quail/DSA-Petful-Server-johnb-scott)<br>
 [Client Repo](https://github.com/thinkful-ei-quail/DSA-Petful-Client-johnb-scott)
